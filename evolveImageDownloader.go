@@ -1,3 +1,5 @@
+/*Author: Ives Nikiema*/
+
 package main
 
 import (
